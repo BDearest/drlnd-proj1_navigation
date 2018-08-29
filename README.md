@@ -18,7 +18,21 @@
     "**Getting Started**\n",
     "\n",
     "\n",
-    "In order to run this agent, one must have Python 3, PyTorch, Unity, Jupyter Notebook, numpy, and matplotlib installed."
+    "In order to run this agent, one must have Python 3, PyTorch, Unity, Jupyter Notebook, numpy, and matplotlib installed.\n",
+    "\n",
+    "The easiest way to set up all of the requirements and dependencies is to clone the Deep Reinforcement Learning Nanodegree repository on Github.  One will need to create a new virtual environment with Python 3.6, install OpenAI gym and create a kernel within IPython. Once the notebook is open, the kernel should be selected from the Kernel dropdown menu. Detailed instructions for these steps can be found here: https://github.com/udacity/deep-reinforcement-learning#dependencies\n",
+    "\n",
+    "Finally, one will need to set up the Udacity Banana environment, by downloading the appropriate environment for your operating system from the links below:\n",
+    "\n",
+    "    Linux:https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip \n",
+    "    \n",
+    "    Mac:https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip\n",
+    "    \n",
+    "    Windows 32-bit:https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip\n",
+    "    \n",
+    "    Windows 64-bit:https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip\n",
+    "\n",
+    "Once the environment is downloaded it should be put in the p1_navigation folder within the cloned repository and unzipped. That's it!"
    ]
   },
   {
